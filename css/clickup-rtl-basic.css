@@ -1,0 +1,51 @@
+div.cu-comment__text {
+  direction: rtl !important; 
+}
+
+li.ql-list-item {
+    direction: rtl !important; 
+}
+
+input.cu-task-row-new__input {
+  direction: rtl !important; 
+}
+
+span.task-todo-item__name-text {
+  direction: rtl !important; 
+}
+
+textarea.cdk-textarea-autosize {
+   text-align: right !important; 
+}
+
+div.task-name-block {
+  direction: rtl !important; 
+}
+
+.ql-editor li>.ql-ui {
+  margin-right: -25px !important; 
+}
+
+span.cu-task-row-main__link-text-inner {
+  direction: rtl !important; 
+}
+
+div.cu-task-row-main__link-text {
+ direction: rtl !important; 
+}
+
+div.ql-editor.focus-visible {
+  direction: rtl !important; 
+  text-align: right !important; 
+}
+
+.cu-task-row-main__actions-inner {
+	right: 0 !important;
+	left: 0 !important;
+}
+
+
+.cu-comment-viewer-content:not(.cu-email-reply__content) .ql-rendered-list-container .ql-rendered-ordered-list:before { 
+	position: relative !important;
+	margin-left:  0 !important;
+ }
